@@ -1,0 +1,9 @@
+package-as: InternalCastingTimer
+enable-nolib-creation: no
+
+ignore:
+    - README.md
+    - cast.png
+    - channel.png
+    - .gitattributes
+    - .pkgmeta

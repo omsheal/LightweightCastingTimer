@@ -4,6 +4,8 @@ Anchors the timer to the base casting bar.
 
 No need for bloated addons like WA or Quartz.
 
+[Discussion on Blizzard Forum](https://us.forums.blizzard.com/en/wow/t/casting-time-on-cast-bar/1397937/4)
+
 ## Screenshot
 ![Cast Timer](https://github.com/omsheal/Internal-Casting-Timer/raw/main/cast.png)
 ![Channeling Cast Timer](https://github.com/omsheal/Internal-Casting-Timer/raw/main/channel.png)

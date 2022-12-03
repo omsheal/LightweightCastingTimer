@@ -9,6 +9,6 @@ No need for bloated addons like WA or Quartz.
 ![Channeling Cast Timer](https://github.com/omsheal/Internal-Casting-Timer/raw/main/channel.png)
 
 
-> 1) [CurseForge](https://www.curseforge.com/wow/addons/internal-casting-timer)
+> 1) [CurseForge](https://www.curseforge.com/wow/addons/internal-casting-timer) (pending admin approval)
 > 
 > 2) [Github Release](https://github.com/omsheal/Internal-Casting-Timer/releases)

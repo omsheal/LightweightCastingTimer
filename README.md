@@ -14,4 +14,4 @@ No need for bloated addons like WA or Quartz.
 ## Where to download?
 > 1) [CurseForge](https://www.curseforge.com/wow/addons/internal-casting-timer) (pending admin approval)
 > 
-> 2) [Github Release](https://github.com/omsheal/InternalCastingTimer/releases)
+> 2) [Github Release](https://github.com/omsheal/LightweightCastingTimer/releases)

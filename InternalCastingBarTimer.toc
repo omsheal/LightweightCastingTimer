@@ -1,0 +1,6 @@
+## Title: Internal Casting Bar Timer
+## Author: Omx-Area52
+## Version: 1.0
+## DefaultState: Enabled
+## Notes: Displays the time left on the casting bar when Casting or Channeling.
+InternalCastingBarTimer.lua

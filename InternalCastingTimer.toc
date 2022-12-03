@@ -3,4 +3,4 @@
 ## Version: 1.0
 ## DefaultState: Enabled
 ## Notes: Displays the time left on the base casting bar when Casting or Channeling.
-InternalCastingBarTimer.lua
+InternalCastingTimer.lua

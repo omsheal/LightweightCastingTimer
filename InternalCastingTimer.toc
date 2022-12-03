@@ -1,6 +1,6 @@
-## Title: Internal Casting Timer
+## Title: Lightweight Casting Timer
 ## Author: Omx-Area52
 ## Version: 1.0
 ## DefaultState: Enabled
 ## Notes: Displays the time left on the base casting bar when Casting or Channeling.
-InternalCastingTimer.lua
+LightweightCastingTimer.lua

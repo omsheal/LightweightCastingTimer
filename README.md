@@ -12,6 +12,6 @@ No need for bloated addons like WA or Quartz.
 
 
 ## Where to download?
-> 1) [CurseForge](https://www.curseforge.com/wow/addons/lightweight-casting-timer) (pending admin approval)
+> 1) [CurseForge](https://www.curseforge.com/wow/addons/lightweight-casting-timer)
 > 
 > 2) [Github Release](https://github.com/omsheal/LightweightCastingTimer/releases)

@@ -1,3 +1,4 @@
+## Interface: 100207, 110000, 110002
 ## Title: Lightweight Casting Timer
 ## Author: Omx-Area52
 ## Version: 1.0

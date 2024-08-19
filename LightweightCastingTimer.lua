@@ -1,5 +1,5 @@
 -- Author: Omx-Area52
--- Version: 2.2
+-- Version: 2.3
 
 local CastingTimerFormat = "(%0.2f/%0.2fs)";
 local castingTimerFrame = CreateFrame("Frame", "castingTimerFrame", PlayerCastingBarFrame)

@@ -1,4 +1,4 @@
-package-as: InternalCastingTimer
+package-as: LightweightCastingTimer
 enable-nolib-creation: no
 
 ignore:
